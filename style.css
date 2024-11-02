@@ -26,7 +26,7 @@ h2 {
     width: 100vw;
     height: 605px;
     margin: auto;
-    background-image: url('/assets/images/banner.png'), linear-gradient(#000, #31a9dd36, #000);
+    background-image: url('banner.png'), linear-gradient(#000, #31a9dd36, #000);
     border-bottom: 1px solid #33A8DB;
 }
 
@@ -107,7 +107,7 @@ h2 {
 #transform-world {
     width: 100%;
     height: 363px;
-    background-image: url(../images/woman-code.png);
+    background-image: url('woman-code.png');
     background-size: contain;
     background-attachment: fixed;
     border-top: 1px solid #33A8DB;
